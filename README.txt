@@ -4,7 +4,7 @@ CMPT 120 Final Project
 Names of Team Members
 ---------------------
 Name: Prince Emmanuel Nitafan, Gavin Samra
-Email: pen@sfu.ca (Prince)
+Emails: pen@sfu.ca (Prince), samragavin44@gmail.com (Gavin Samra)
 
 Description
 -----------
